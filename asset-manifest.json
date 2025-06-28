@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pincode-lookup-app/static/css/main.5e2e5b0b.css",
+    "main.js": "/pincode-lookup-app/static/js/main.c1ed4fe7.js",
+    "index.html": "/pincode-lookup-app/index.html",
+    "main.5e2e5b0b.css.map": "/pincode-lookup-app/static/css/main.5e2e5b0b.css.map",
+    "main.c1ed4fe7.js.map": "/pincode-lookup-app/static/js/main.c1ed4fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e5b0b.css",
+    "static/js/main.c1ed4fe7.js"
+  ]
+}
